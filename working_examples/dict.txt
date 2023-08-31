@@ -1,0 +1,3 @@
+1 - it was true the the robot was always at the store, but ever since then it stayed at home at all times.
+
+2 - the robot is always at the store, and whenever it is at the garage, it cannot be at the house.
